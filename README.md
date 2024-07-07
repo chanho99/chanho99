@@ -1,5 +1,7 @@
 DDANO's Github<br><br>
-Stack<br>
+Tech Stack<br>
+Frontend<br>
+Backend<br>
 Tools<br><br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chanho052622@gmail.com)](mailto:chanho052622@gmail.com)<br><br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chanho0526)](https://solved.ac/chanho0526)<br><br>
