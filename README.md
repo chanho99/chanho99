@@ -1,6 +1,9 @@
 ## Hi there 👋
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chanho052622@gmail.com)](mailto:chanho052622@gmail.com)<br><br>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chanho0526)](https://solved.ac/chanho0526)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chanho0526)](https://solved.ac/chanho0526)<br><br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanho99)](https://github.com/chanho99/github-readme-stats)<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanho99&layout=compact)
+
 <!--
 **chanho99/chanho99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
