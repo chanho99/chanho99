@@ -2,7 +2,8 @@ DDANO's Github<br><br>
 Tech Stack<br>
 Frontend<br>
 Backend<br>
-Tools<br><br>
+Tools<br>
+Contact<br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chanho052622@gmail.com)](mailto:chanho052622@gmail.com)<br><br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chanho0526)](https://solved.ac/chanho0526)<br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanho99)](https://github.com/chanho99/github-readme-stats)<br><br>
