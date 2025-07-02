@@ -37,9 +37,9 @@
   <br><br>
   
   <a href="https://github.com/chanho99/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=chanho99">
+    <img src="https://github-readme-stats.vercel.app/api?username=chanho99&theme=react">
   </a>
   <br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanho99&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanho99&layout=compact&theme=react">
 </div>
